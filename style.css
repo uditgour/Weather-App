@@ -1,0 +1,60 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+#city {
+    margin-top: 3%;
+    font-size: 30px;
+    width: 20%;
+    padding: 12px 20px;
+    border-radius: 20px;
+    outline: none;
+    color: blue;
+}
+
+div {
+    display: block;
+    text-align: center;
+}
+
+#s1 {
+    display: block;
+    text-align: center;
+    font-size: 80px;
+    color: black;
+}
+
+#s2 {
+    display: block;
+    text-align: center;
+    font-size: 25px;
+    color: black;
+}
+
+#s3 {
+    display: block;
+    text-align: center;
+    font-size: 80px;
+    color: black;
+    font-weight: bolder;
+}
+
+#s4 {
+    display: block;
+    text-align: center;
+    font-size: 40px;
+    color: black;
+}
+
+#s5 {
+    display: block;
+    text-align: center;
+    font-size: 35px;
+    color: black;
+}
+
+body {
+    background-image: url('25503.jpg');
+    background-size: cover;
+}
