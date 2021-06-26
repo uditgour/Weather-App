@@ -10,7 +10,7 @@ let d = new Date();
 const weather = async(city) => {
 
 
-    const url = `http://api.openweathermap.org/data/2.5/weather?q=${city}&appid=f6b6adaad4349bac2527fde0f7e20a94`;
+    const url = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=f6b6adaad4349bac2527fde0f7e20a94`;
 
     const fetchedData = await axios.get(url);
 
